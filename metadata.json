@@ -1,0 +1,5 @@
+{
+  "name": "CrimeMiner AI",
+  "description": "Herramienta de minería de texto y análisis criminal para la identificación de patrones delictivos en denuncias.",
+  "requestFramePermissions": []
+}

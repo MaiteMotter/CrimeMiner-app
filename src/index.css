@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+    --background: #ffffff;
+    --foreground: #1a1a1a;
+    --primary: #4A4963; /* Tu color Dark */
+    --secondary: #3C4C9A; /* Tu Azul */
+    --accent: #D0234F; /* Tu Rosa/Rojo */
+    --chart-1: #3C4C9A;
+    --chart-2: #D0234F;
+    --chart-3: #EE751E; /* Tu Naranja */
+    --chart-4: #4A4963;
+    --border: #e2e8f0;
+    --input: #e2e8f0;
+    --ring: #4A4963;
+    --radius: 0.5rem;
+}
